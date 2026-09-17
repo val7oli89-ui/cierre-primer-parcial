@@ -38,15 +38,13 @@
 
 | Herramienta | ¿Para qué la uso? | ¿Ya la tengo funcionando? |
 
-|---|---|---|
+| Markdown | [Hacer texto] | [A medias] |
 
-| Markdown | [ ] | [Sí / No / A medias] |
+| Obsidian | [Para tomar notas] | [A medias] |
 
-| Obsidian | [ ] | [Sí / No / A medias] |
+| Git | [Subir y juntar los repositorios; y crear la clave SSH] | [A medias] |
 
-| Git | [ ] | [Sí / No / A medias] |
-
-| GitHub | [ ] | [Sí / No / A medias] |
+| GitHub | [Crear repositorios y guardas mis códigos] | [A medias] |
 
   
 
