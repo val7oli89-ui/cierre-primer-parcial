@@ -1,5 +1,6 @@
 # Tres ideas de proyecto
 
+
 **Autor:** [Valeria Olivares Méndez]
 
 **Fecha:** [17/09/2026 ]
@@ -50,11 +51,11 @@ Una idea es viable para esta materia si cumple los cuatro criterios:
 
 **Cómo funcionaría.**
 
-- Qué mide o detecta (sensor): [ ]
+- Qué mide o detecta (sensor): [ Reconocimiento de voz, sensor de  gestos]
 
-- Qué hace con eso (actuador, aviso, pantalla): [ ]
+- Qué hace con eso (actuador, aviso, pantalla): [Manda mensaje/texto]
 
-- Qué pieza habría que fabricar: [ ]
+- Qué pieza habría que fabricar: [Un guante]
 
   
 
@@ -66,7 +67,7 @@ Una idea es viable para esta materia si cumple los cuatro criterios:
 
   
 
-**Problema.** [Desaparición de las personas]
+**Problema.** [Desaparición de las personas, inseguridad]
 
   
 
@@ -80,11 +81,11 @@ Una idea es viable para esta materia si cumple los cuatro criterios:
 
 **Cómo funcionaría.**
 
-- Qué mide o detecta (sensor): [ ]
+- Qué mide o detecta (sensor): [Sensor de peso]
 
-- Qué hace con eso (actuador, aviso, pantalla): [ ]
+- Qué hace con eso (actuador, aviso, pantalla): [actuador ]
 
-- Qué pieza habría que fabricar: [ ]
+- Qué pieza habría que fabricar: [Sensor de peso, lamparas que guarden energía del movimiento]
 
   
 
@@ -104,17 +105,16 @@ Una idea es viable para esta materia si cumple los cuatro criterios:
 
   
 
-**Dónde lo he visto.** [Tengo amigos que sus amigas estan desaparecidas, tengo familiares que han desaparecido.]
-
+**Dónde lo he visto.** [Tengo amigos que sus amigas están desaparecidas, tengo familiares que han desaparecido.]
   
 
 **Cómo funcionaría.**
 
-- Qué mide o detecta (sensor): [ ]
+- Qué mide o detecta (sensor): [Ubicación geográfica]
 
-- Qué hace con eso (actuador, aviso, pantalla): [ ]
+- Qué hace con eso (actuador, aviso, pantalla): [Aviso]
 
-- Qué pieza habría que fabricar: [ ]
+- Qué pieza habría que fabricar: [Botón]
 
   
 
@@ -124,29 +124,20 @@ Una idea es viable para esta materia si cumple los cuatro criterios:
 
 ## Tabla de viabilidad
 
-  
-
-> Instrucción: escribe Sí, No o Parcial en cada celda. Una idea con un "No" no está
-
-> descalificada: lo que se evalúa es que reconozcas el problema, no que las tres ideas
-
-> salgan perfectas.
-
-  
 
 | Criterio | Idea 1 | Idea 2 | Idea 3 |
 
 |---|---|---|---|
 
-| Problema concreto de mi entorno | | | |
+| Problema concreto de mi entorno | No | Si | Si |
 
-| Parte física fabricable | | | |
+| Parte física fabricable |Si | Si | Si |
 
-| Sensor o actuador | | | |
+| Sensor o actuador | Si | Si | Si |
 
-| Construible en ocho sesiones por principiantes | | | |
+| Construible en ocho sesiones por principiantes | No | No | Si |
 
-| Qué tan seguro estoy de lo anterior (alto / medio / bajo) | | | |
+| Qué tan seguro estoy de lo anterior (alto / medio / bajo) | Medio | Medio | Medio |
 
   
 
@@ -154,7 +145,7 @@ Una idea es viable para esta materia si cumple los cuatro criterios:
 
   
 
-**Idea elegida:** [ ]
+**Idea elegida:** [Traductor del lenguaje de señas con IA o un asistente que sea de voz a texto o señas a texto]
 
   
 
@@ -178,6 +169,6 @@ Esta sección vale: reconocer la incertidumbre es parte del trabajo de ingenier�
 
 - **Herramienta utilizada:** [Perplexity]
 
-- **Qué le pedí:** [ ]
+- **Qué le pedí:** [Que me planteara bien mi idea ]
 
-- **Qué modifiqué o rechacé de su respuesta, y por qué:** [ ]
+- **Qué modifiqué o rechacé de su respuesta, y por qué:** [ Modifique lo que me dio, ya que lo que me planteo estaba parcialmente correcto, por lo que aun no concretaba lo que quería yo.]
