@@ -30,6 +30,8 @@
 
 - [Investigación](investigacion.md) — ejemplos que ya existen y fuentes consultadas.
 
+- [Idea elegida](idea-elegida.md) - idea escogída
+
   
 
 ## Herramientas que estoy usando
