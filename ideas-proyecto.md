@@ -149,13 +149,11 @@ Una idea es viable para esta materia si cumple los cuatro criterios:
 
   
 
-**Por qué.** [Tres o cuatro líneas, apoyadas en la tabla.]
+**Por qué.** [La escogí porque viéndolo en fabricación así puede ser buena, también que puede ser factible y puede ser un poco más fácil de construir]
 
   
 
-**Qué todavía no sé.** [Lo que tendrías que averiguar o probar antes de comprometerte.
-
-Esta sección vale: reconocer la incertidumbre es parte del trabajo de ingeniería.]
+**Qué todavía no sé.** [Costo de materiales, el si es factible si se puede construir, que tan ligero o pesado terminaría siendo, si es viable y sustentable el construirlo, si se tiene la capital para que se pueda contruir]
 
   
 
