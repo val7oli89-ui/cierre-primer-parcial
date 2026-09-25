@@ -9,3 +9,6 @@
 **Contruir** [La pieza física que tengo que realizar es un guante con sensores de movimiento y que pueda reconocer la orientación espacial de la mano.]  
 
 **Qué todavía no sé.** [Costo de materiales, el si es factible si se puede construir, que tan ligero o pesado terminaría siendo, si es viable y sustentable el construirlo, si se tiene la capital para que se pueda contruir]
+
+![Prototipo](Documentos/proyectoinge1/cierre_primer_parcial/imagen.png)
+
