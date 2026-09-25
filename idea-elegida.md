@@ -10,5 +10,5 @@
 
 **Qué todavía no sé.** [Costo de materiales, el si es factible si se puede construir, que tan ligero o pesado terminaría siendo, si es viable y sustentable el construirlo, si se tiene la capital para que se pueda contruir]
 
-![Prototipo](Documentos/proyectoinge1/cierre_primer_parcial/imagen.png)
+![Prototipo](C:\Users\Vale\Documentos/proyectoinge1/cierre_primer_parcial/imagen.png)
 
